@@ -1,10 +1,10 @@
-# 基于SSH的求职招聘管理系统
+# 基于SSH的求职招聘管理系统2
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**求职2**
+下方扫一扫关注后，后台回复关键词：**求职**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -34,39 +34,33 @@
 
 ### 4.1 首页
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121537453.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202206121537453.jpg)
 
 ### 4.2 用户模块
 
-![用户-查看招聘信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121537567.jpg)
+![用户-查看招聘信息](https://www.codeshop.fun/Typora-Images/202206121537567.jpg)
 
 ### 4.3 公司模块
 
-![企业-求职信息查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121537640.jpg)
+![企业-求职信息查看](https://www.codeshop.fun/Typora-Images/202206121537640.jpg)
 
-![企业-求职资讯管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121537813.jpg)
+![企业-求职资讯管理](https://www.codeshop.fun/Typora-Images/202206121537813.jpg)
 
-![企业-招聘信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121537993.jpg)
+![企业-招聘信息管理](https://www.codeshop.fun/Typora-Images/202206121537993.jpg)
 
-![企业信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538472.jpg)
+![企业信息管理](https://www.codeshop.fun/Typora-Images/202206121538472.jpg)
 
-![企业-详情信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538485.jpg)
+![企业-详情信息](https://www.codeshop.fun/Typora-Images/202206121538485.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-所有招聘管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538824.jpg)
+![管理员-所有招聘管理](https://www.codeshop.fun/Typora-Images/202206121538824.jpg)
 
-![管理员-求职者信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538412.jpg)
+![管理员-求职者信息管理](https://www.codeshop.fun/Typora-Images/202206121538412.jpg)
 
-![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538905.jpg)
+![管理员-留言管理](https://www.codeshop.fun/Typora-Images/202206121538905.jpg)
 
-![管理员-友情链接管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538142.jpg)
+![管理员-友情链接管理](https://www.codeshop.fun/Typora-Images/202206121538142.jpg)
 
-![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538598.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**求职2**
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![管理员-公告管理](https://www.codeshop.fun/Typora-Images/202206121538598.jpg)
 
